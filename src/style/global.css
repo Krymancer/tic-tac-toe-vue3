@@ -1,0 +1,15 @@
+:root {
+  --background: 25, 42, 50;
+  --primary: 31, 53, 64;
+  --gray: 196, 196, 196;
+  --yellow: 242, 178, 55;
+  --green: 49, 196, 190;
+}
+
+* {
+  overflow: hidden;
+}
+
+body {
+  margin: 0;
+}

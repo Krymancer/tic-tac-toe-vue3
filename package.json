@@ -1,0 +1,21 @@
+{
+  "name": "tic-taac-toe",
+  "private": true,
+  "version": "0.0.0",
+  "homepage": ".",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build --target=es2020",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-vue": "^2.2.0",
+    "vue": "^3.2.25",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.4",
+    "vite": "^2.8.0",
+    "vue-tsc": "^0.29.8"
+  }
+}
